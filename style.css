@@ -1,0 +1,12 @@
+thead{
+    Font-weight: bold;
+    background-color: goldenrod;
+    color: burlywood;
+}
+
+tbody> tr:hover{
+    background-c
+    olor: red;
+    color: whitesmoke;
+
+}
